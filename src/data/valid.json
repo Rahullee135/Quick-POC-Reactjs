@@ -1,0 +1,23 @@
+{   
+    "results":[
+
+    {
+    "username":"rahul@gmail.com",
+    "password":"1234"
+    },
+    
+    {
+        "username":"rahul135@gmail.com",
+        "password":"1234"
+    },
+
+        {
+            "username":"admin@gmail.com",        
+            "password":"admin"
+           
+        }
+        
+    ]
+    
+}    
+    
